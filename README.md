@@ -9,7 +9,7 @@ I like turning ideas into functional, scalable apps and constantly improving my 
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/Rohit Baral)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/RohitBaral)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/rohitbaral10)
 
 ---
